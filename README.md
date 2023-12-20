@@ -10,6 +10,18 @@ Auteur : ack
 Origine : [2tp](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-2tp/)
 
 
+## Connectez vous en WEBSSH
+> http://loaclhost
+
+#### tentez 
+> nc 2tp.cyrhades.com:4000
+
+
+-----------
+
+## Ou directement avec netcat
+> nc localhost:4000
+
 -----------
 
 ## Installation manuel
